@@ -1,0 +1,47 @@
+/* LoginForm.css */
+
+.login-form-container {
+    position: relative; /* Set position to relative for absolute positioning */
+    background-image: url('c:\Users\nithin.goud\Downloads\photo-1517504734587-2890819debab.jpeg'); /* Set the path to your image */
+    background-size: cover; /* Cover the entire container with the image */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-position: center; /* Center the image */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  
+  .login-form-title {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .login-form-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-form-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .login-form-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,20 @@
+
+/* Add more styles as needed */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("c:\Users\nithin.goud\Pictures\Screenshots\my.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
