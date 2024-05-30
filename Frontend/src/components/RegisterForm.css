@@ -1,9 +1,9 @@
 .register-form-container {
-  position: relative; /* Set position to relative for absolute positioning */
-  background-image: url('c:\Users\nithin.goud\Downloads\photo-1517504734587-2890819debab.jpeg'); /* Set the path to your image */
-  background-size: cover; /* Cover the entire container with the image */
-  background-repeat: no-repeat; /* Prevent image from repeating */
-  background-position: center; /* Center the image */
+  position: relative; 
+  background-image: url('c:\Users\nithin.goud\Downloads\photo-1517504734587-2890819debab.jpeg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
   padding: 40px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
