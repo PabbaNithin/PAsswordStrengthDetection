@@ -1,10 +1,10 @@
 /* LoginForm.css */
 
 .login-form-container {
-    position: relative; /* Set position to relative for absolute positioning */
-    background-image: url('c:\Users\nithin.goud\Downloads\photo-1517504734587-2890819debab.jpeg'); /* Set the path to your image */
-    background-size: cover; /* Cover the entire container with the image */
-    background-repeat: no-repeat; /* Prevent image from repeating */
+    position: relative; 
+    background-image: url('c:\Users\nithin.goud\Downloads\photo-1517504734587-2890819debab.jpeg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; /
     background-position: center; /* Center the image */
     padding: 40px;
     border-radius: 10px;
